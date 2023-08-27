@@ -1,0 +1,45 @@
+.all {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.all table {
+    flex: 0 0 30%;
+
+    margin: 8px;
+    border-collapse: collapse;
+    
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    
+}
+h1{
+    color:rgb(15, 15, 15);
+    text-align:center;
+    
+    font-weight:Bold;
+    font-family: arial;
+    font: size 96px;
+}
+th{
+    background-color: #f56e84;
+}
+body{
+    background-color: rgb(247, 250, 251);
+}
+td{
+    background-color: rgb(229, 231, 241);
+    color:rgb(18, 17, 17);
+
+}
+h2{
+    color:white;
+    text-align:center;
+    font-weight:bold;
+}
+button{
+    background-color:
+}
